@@ -1,7 +1,3 @@
-## 📝 Project README Details
-
-Below is a structured template for your `README.md` file, detailing the project overview, implementation approach, and model training results.
-
 ***
 
 # Token Prediction using Self-Attention (Character-Level Language Model)
